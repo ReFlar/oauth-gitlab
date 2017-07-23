@@ -8,4 +8,4 @@ reflar-oauth-gitlab:
 
   forum:
     log_in:
-      with_google_button: Login with GitLab
+      with_gitlab_button: Login with GitLab
